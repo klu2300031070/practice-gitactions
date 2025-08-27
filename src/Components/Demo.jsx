@@ -23,6 +23,7 @@ export default function Demo() {
 
   return (
     <div className="app-container">
+      <h1 className="title">CI/CD</h1>
       <h2 className="title">Student Management</h2>
 
       {/* Add Student Form */}
